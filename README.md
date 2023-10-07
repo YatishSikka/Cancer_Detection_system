@@ -22,8 +22,8 @@ The Cancer Detection System is a deep learning project designed to identify the 
      ```bash
      .\venv\Scripts\activate
    - On macOS and Linux:
-    ```bash
-    source venv/bin/activate
+     ```bash
+     source venv/bin/activate
   
 5. Install the project dependencies using the requirements.txt file:
    ```bash
