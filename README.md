@@ -21,7 +21,7 @@ The Cancer Detection System is a deep learning project designed to identify the 
    - On Windows:
      ```bash
      .\venv\Scripts\activate
-  - On macOS and Linux:
+   - On macOS and Linux:
     ```bash
     source venv/bin/activate
   
@@ -31,9 +31,10 @@ The Cancer Detection System is a deep learning project designed to identify the 
 6. Download the brain MRI scans dataset from [Kaggle Brain MRI Images dataset](https://www.kaggle.com/datasets/navoneel/brain-mri-images-for-brain-tumor-detection) .
 7. Enter the root directory path (ROOT_DIR) as well as the test image path (PATH) in the .env file in your root directory.
 
-##Usage
-Once you have set up the environment, you can run the Cancer Detection System using the following command:
-  ```bash
-  python main.py
+## Usage
 
+Once you have set up the environment, you can run the Cancer Detection System using the following command:
+```bash
+python main.py
+```
 The system will process the MRI scan images located at the path specified in the .env file and provide results on whether tumors are detected.
