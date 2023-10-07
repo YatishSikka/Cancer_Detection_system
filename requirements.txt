@@ -1,0 +1,6 @@
+os
+python-dotenv
+tensorflow
+numpy
+math
+shutil
